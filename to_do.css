@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: burlywood;
+}
+
+.header{
+    height: auto;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: auto;
+    padding-bottom: 60px;
+    background-color: #af8c8c;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+ h1{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: -50px;
+    background-color: aqua;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    
+}
+h2{
+    font-size: 3rem;
+    color: rgb(236, 238, 241);
+    padding-top: 20px;
+    margin-left: -50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+ hr{
+    /* width: 200px;  */
+    color: rgb(41, 6, 6);
+    margin-left: -50px;
+ } 
+
+ .input_item{
+    width: 450px;
+    margin-left: 15px;
+ }
+
+ .list-group-item{
+    width: 450px;
+    margin-left: -8px;
+    border-radius: 10px;
+    
+ }
+
